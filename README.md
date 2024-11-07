@@ -13,5 +13,6 @@ Guideline-2: Keep the PLC in ''Local'' mode.
 Guideline-3: Enable access authentication.
 Guideline-4: Enable both read and write authentication.
 
+We will gradually disclose details of our research in the future.
 
 If you have a PLC connected to the IPV4 cyberspace and would like to avoid being scanned by us, please contact us.
